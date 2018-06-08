@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: Y:\MIN_MOW_03\05_DECAD\Moway\V3\MIN_MOW_Moway_V3 PCB.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=min_mow_moway_v3 pcb-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=min_mow_moway_v3 pcb-nonplated.txt|DrillLayers=gtl,g1,g2,gbl

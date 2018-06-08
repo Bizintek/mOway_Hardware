@@ -1,0 +1,10 @@
+Output: Bizintek - Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [MIN_MOW_03_V3.PrjPcb]
+   Generated File[Bizintek - Bill of Materials-MIN_MOW_03_V3.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:30:37 On 10/04/2018

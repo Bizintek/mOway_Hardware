@@ -1,0 +1,47 @@
+Altium Designer Pick and Place Locations
+Y:\MIN_MOW_03\05_DECAD\IR\V3\ProjectOutputs\Assembly\Pick Place\Pick Place for MIN_MOW_03 IR_V3 PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/04/18
+Time:       11:36
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C1","C22NV10X7R0603","TopLayer","C0603","9.9000","16.2250","90","CAPACITOR SMD 0603, 22nF , 10V, X7R"
+"C2","C22NV10X7R0603","TopLayer","C0603","6.8000","16.4500","90","CAPACITOR SMD 0603, 22nF , 10V, X7R"
+"C3","C22NV10X7R0603","TopLayer","C0603","9.0300","29.1250","270","CAPACITOR SMD 0603, 22nF , 10V, X7R"
+"C4","C22NV10X7R0603","TopLayer","C0603","7.6050","29.1250","270","CAPACITOR SMD 0603, 22nF , 10V, X7R"
+"Q1","PT100MF0MP","TopLayer","PT100MF0MP_SIDE","9.5187","2.8983","320","SMT Phototransistor, 15º angle, 910nm, 3.45mA (SIDE MOUNTING)"
+"Q2","PT100MF0MP","TopLayer","PT100MF0MP_SIDE","4.8399","8.6693","285","SMT Phototransistor, 15º angle, 910nm, 3.45mA (SIDE MOUNTING)"
+"Q3","PT100MF0MP","TopLayer","PT100MF0MP_SIDE","9.5493","35.0473","217","SMT Phototransistor, 15º angle, 910nm, 3.45mA (SIDE MOUNTING)"
+"Q4","PT100MF0MP","TopLayer","PT100MF0MP_SIDE","4.8401","29.3193","255","SMT Phototransistor, 15º angle, 910nm, 3.45mA (SIDE MOUNTING)"
+"R1","R39KT10402","TopLayer","R0402","4.2750","22.5000","360","RESISTOR SMD 0402, 39kOhm, 1%"
+"R2","R39KT10402","TopLayer","R0402","4.3750","26.1500","360","RESISTOR SMD 0402, 39kOhm, 1%"
+"R3","R4K7T10402","TopLayer","R0402","7.2750","6.4250","90","RESISTOR SMD 0402, 4.7kOhm, 1%"
+"R4","R4K7T10402","TopLayer","R0402","5.0500","12.3750","90","RESISTOR SMD 0402, 4.7kOhm, 1%"
+"R5","R4K7T10402","TopLayer","R0402","11.1348","7.4656","90","RESISTOR SMD 0402, 4.7kOhm, 1%"
+"R6","R4K7T10402","TopLayer","R0402","3.3500","12.3750","90","RESISTOR SMD 0402, 4.7kOhm, 1%"
+"R7","R22KT10402","TopLayer","R0402","11.2000","15.1500","90","RESISTOR SMD 0402, 22kOhm, 1%"
+"R8","R1KT10402","TopLayer","R0402","11.2000","17.2750","90","RESISTOR SMD 0402, 1kOhm, 1%"
+"R9","R22KT10402","TopLayer","R0402","4.2500","14.1500","360","RESISTOR SMD 0402, 22kOhm, 1%"
+"R10","R1KT10402","TopLayer","R0402","5.4000","17.1750","90","RESISTOR SMD 0402, 1kOhm, 1%"
+"R11","R39KT10402","TopLayer","R0402","11.5158","19.8862","270","RESISTOR SMD 0402, 39kOhm, 1%"
+"R12","R39KT10402","TopLayer","R0402","11.5750","25.3000","90","RESISTOR SMD 0402, 39kOhm, 1%"
+"R13","R100T10402","TopLayer","R0402","11.1500","9.6750","90","RESISTOR SMD 0402, 100Ohm, 1%"
+"R14","R100T10402","TopLayer","R0402","4.2500","15.2250","360","RESISTOR SMD 0402, 100Ohm, 1%"
+"R15","R4K7T10402","TopLayer","R0402","11.1750","33.5250","180","RESISTOR SMD 0402, 4.7kOhm, 1%"
+"R16","R4K7T10402","TopLayer","R0402","6.0000","31.9249","270","RESISTOR SMD 0402, 4.7kOhm, 1%"
+"R17","R4K7T10402","TopLayer","R0402","11.0000","32.4750","180","RESISTOR SMD 0402, 4.7kOhm, 1%"
+"R18","R4K7T10402","TopLayer","R0402","7.7500","31.6749","270","RESISTOR SMD 0402, 4.7kOhm, 1%"
+"R19","R22KT10402","TopLayer","R0402","10.8250","29.5500","360","RESISTOR SMD 0402, 22kOhm, 1%"
+"R20","R1KT10402","TopLayer","R0402","11.2250","27.9000","270","RESISTOR SMD 0402, 1kOhm, 1%"
+"R21","R22KT10402","TopLayer","R0402","2.8250","24.5500","90","RESISTOR SMD 0402, 22kOhm, 1%"
+"R22","R1KT10402","TopLayer","R0402","4.5250","24.5500","270","RESISTOR SMD 0402, 1kOhm, 1%"
+"R23","R100T10402","TopLayer","R0402","10.8250","30.6750","360","RESISTOR SMD 0402, 100Ohm, 1%"
+"R24","R100T10402","TopLayer","R0402","1.0256","24.5692","90","RESISTOR SMD 0402, 100Ohm, 1%"
+"U1","MCP6004IST","TopLayer","TSSOP14_MCP","8.2550","22.8000","0","1MHz Low-Power Op Amp"
+"C5","C100NV10X7R0603","TopLayer","C0603","8.2250","16.9750","90","CAPACITOR SMD 0603, 100nF, 10V, X7R"
